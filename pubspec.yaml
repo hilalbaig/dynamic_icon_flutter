@@ -6,7 +6,7 @@ repository: https://github.com/chuanpham/dynamic_icon_flutter
 issue_tracker: https://github.com/chuanpham/dynamic_icon_flutter/issues
 
 environment:
-  sdk: ">=2.15.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
   flutter: ">=2.5.0"
 
 dependencies:
